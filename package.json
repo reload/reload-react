@@ -2,7 +2,7 @@
     "name": "reload-react",
     "displayName": "Reload React",
     "description": "Will provide you with the Reload opinionated way of writing React components.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "reloaddk",
     "author": {
         "name": "lasseborly <lasse@reload.dk>"
