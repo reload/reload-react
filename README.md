@@ -23,5 +23,5 @@ rld-component-class
 ```
 
 ```
-rld-component-style
+rld-component-glamorous
 ```
