@@ -26,7 +26,7 @@
       "import { node } from 'prop-types'",
       "",
       "class ${TM_FILENAME/(.*)\\..+$/$1/} extends PureComponent {",
-      "  propTypes = {",
+      "  static propTypes = {",
       "    children: node",
       "  }",
       "",
